@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320">
+  <title>Cluster centers comparison</title>
+  <rect width="400" height="320" fill="#ffffff" stroke="black" stroke-width="1"/>
+  <g stroke-width="1" stroke="#bdc3c7" fill="none">
+    <line x1="40" y1="40" x2="40" y2="280" />
+    <line x1="40" y1="280" x2="360" y2="280" />
+  </g>
+  <g fill="#8e44ad" stroke="black" stroke-width="1">
+    <circle cx="150" cy="170" r="7" />
+    <circle cx="270" cy="190" r="7" />
+    <text x="160" y="165" font-size="12" font-family="Arial">Quantum centers</text>
+  </g>
+  <g fill="#7f8c8d" stroke="black" stroke-width="1">
+    <rect x="130" y="200" width="10" height="10" />
+    <rect x="250" y="210" width="10" height="10" />
+    <text x="140" y="215" font-size="12" font-family="Arial">Classical centers</text>
+  </g>
+</svg>
